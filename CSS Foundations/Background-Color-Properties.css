@@ -1,0 +1,10 @@
+p {
+    /* hex example: */
+    color: #1100ff;
+    /* rgb example: */
+    color: rgb(100, 0, 127);
+    /* hsl example: */
+    color: hsl(15, 82%, 56%);
+    }
+
+/* https://www.w3schools.com/cssref/css_colors_legal.asp for colour values */
