@@ -1,0 +1,13 @@
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+  /* several unique declarations */
+}
+
+.unread {
+  /* several unique declarations */
+}
