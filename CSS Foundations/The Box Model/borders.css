@@ -1,0 +1,5 @@
+* {
+    border: 2px solid red;
+}
+
+/* Keep in mind within a box there is a padding and a margin. Margin is outside the border, Padding is within it
